@@ -41,3 +41,6 @@ The waters continued, growing ever taller. They drowned the ancient cities and b
 
 They renamed their world in honor of the sparkling expanse that had pushed back their borders—<font color="#ff0000">Azuria</font>, world of the waters.
 
+# Links
+[[Azuria]]
+[[Deities]]

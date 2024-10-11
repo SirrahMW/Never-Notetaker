@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f18d620640c8e5d6",
+            "id": "ce3c5c6e2e293430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Land of Vampires/Azuria/Steymhorod/History.md",
+                "file": "Land of Vampires/Azuria/Linolynn.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Land of Vampires/Azuria/Steymhorod/History.md",
+                "file": "Land of Vampires/Azuria/Linolynn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Land of Vampires/Azuria/Steymhorod/History.md",
+                "file": "Land of Vampires/Azuria/Linolynn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Land of Vampires/Azuria/Steymhorod/History.md"
+                "file": "Land of Vampires/Azuria/Linolynn.md"
               }
             }
           },
@@ -165,9 +165,17 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "4fa28fdb8be148be",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "4041cef9a14969fd",
@@ -201,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 890.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -220,25 +228,31 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "5211e24cdc2c683e",
+  "active": "ce3c5c6e2e293430",
   "lastOpenFiles": [
+    "Land of Vampires/Azuria/Azuria.md",
+    "Land of Vampires/attachments/Pasted image 20241011151846.png",
+    "Land of Vampires/Azuria/attachments",
+    "Land of Vampires/attachments/history_of_azuria_infographic.pdf",
+    "Land of Vampires/attachments/history_of_azuria_infographic_annotated.md",
+    "Land of Vampires/Azuria/Steymhorod/Steymhorod.md",
+    "Land of Vampires/Azuria/Steymhorod/History.md",
+    "Land of Vampires/Azuria/The Planes.md",
+    "Land of Vampires/Azuria/Deities.md",
+    "Land of Vampires/attachments/map_of_azuria.png",
+    "Land of Vampires/attachments/planes_of_azuria.png",
+    "Land of Vampires/attachments/Raghar Stonefist.jpg",
+    "Land of Vampires/attachments/Raghar Stonefist.jpg.opdownload",
+    "Land of Vampires/attachments/map_highlighting_linolynn.md",
+    "Land of Vampires/attachments/linolynn_area.png",
     "README.md",
     "Never-Notetaker",
     "Land of Vampires/Azuria/Steymhorod/Geography.md",
-    "Land of Vampires/Azuria/Azuria.md",
-    "Land of Vampires/Azuria/Steymhorod/Steymhorod.md",
     "Land of Vampires/Azuria/Steymhorod/People.md",
-    "Land of Vampires/Azuria/Steymhorod/History.md",
     "Land of Vampires/Azuria/Steymhorod/Major Cities.md",
     "Land of Vampires/Azuria/Steymhorod",
-    "Land of Vampires/Azuria/The Planes.md",
     "Land of Vampires/Azuria/Linolynn.md",
     "Land of Vampires/Azuria",
-    "Land of Vampires/attachments/map_highlighting_linolynn.md",
-    "Land of Vampires/attachments/linolynn_area.png",
-    "Land of Vampires/attachments/planes_of_azuria.png",
-    "Land of Vampires/attachments/map_of_azuria.png",
-    "Land of Vampires/attachments/map_of_azuria.png",
     "Land of Vampires/attachments/planes_of_azuria_annotated.md",
     "Land of Vampires/attachments/planes_of_azuria_annotated.png",
     "Land of Vampires/attachments/attachments",
@@ -251,7 +265,6 @@
     "Excalidraw/Drawing 2024-10-09 13.56.52.excalidraw.md",
     "Excalidraw",
     "Land of Vampires/attachments",
-    "Welcome.md",
-    "Land of Vampires"
+    "Welcome.md"
   ]
 }
