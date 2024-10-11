@@ -216,11 +216,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "copilot:Copilot Chat": false
     }
   },
   "active": "5211e24cdc2c683e",
   "lastOpenFiles": [
+    "README.md",
     "Never-Notetaker",
     "Land of Vampires/Azuria/Steymhorod/Geography.md",
     "Land of Vampires/Azuria/Azuria.md",
