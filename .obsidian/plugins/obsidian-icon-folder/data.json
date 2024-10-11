@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiHome",
+      "LiWaypoints",
+      "LiDoorClosed",
+      "LiBuilding",
+      "LiLocateFixed"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Land of Vampires": "LiMap",
+  "Land of Vampires/attachments": "LiFiles",
+  "Land of Vampires/Adventure": "LiWaypoints",
+  "Land of Vampires/Azuria/The Planes.md": "LiDoorClosed",
+  "Land of Vampires/Azuria/Linolynn.md": "LiLocateFixed",
+  "Land of Vampires/Azuria/Steymhorod/Steymhorod.md": "LiLocateFixed",
+  "Land of Vampires/Azuria/Steymhorod": "LiLocateFixed",
+  "Land of Vampires/Azuria/Azuria.md": "LiHome"
+}

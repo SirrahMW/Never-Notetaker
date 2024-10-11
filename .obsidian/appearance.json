@@ -1,0 +1,11 @@
+{
+  "accentColor": "#e6005c",
+  "cssTheme": "Minimal",
+  "baseFontSize": 22,
+  "nativeMenus": false,
+  "interfaceFontFamily": "Arial Rounded MT",
+  "baseFontSizeAction": true,
+  "textFontFamily": "Century Schoolbook",
+  "monospaceFontFamily": "Lucida Sans Typewriter",
+  "enabledCssSnippets": []
+}
