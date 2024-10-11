@@ -17,7 +17,7 @@ __(Your installation location may be different from the screenshot below, that i
 
 <img src="https://github.com/user-attachments/assets/2c9ad421-2e22-4428-836a-ef59c86bb5d7" width="600">
 
-4. Open up Obsidian and you'll see a screen like the one below. Use the "Open folder as vault" and navigate to where you saved the extracted repo.
+4. Open up Obsidian and you'll see a screen like the one below. Use the "Open folder as vault" and navigate to where you saved the extracted repo (The folder you choose should have the hidden `.obsidian` folder in it).
 
 <img src="https://github.com/user-attachments/assets/88e87048-fe47-4d0e-b8a9-7c4d5b3a1452" width="600">
 
