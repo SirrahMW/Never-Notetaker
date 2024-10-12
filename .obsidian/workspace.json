@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Land of Vampires/Azuria/Steymhorod/Steymhorod.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Land of Vampires/Azuria/Steymhorod/Steymhorod.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Land of Vampires/Azuria/Steymhorod/Steymhorod.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Land of Vampires/Azuria/Steymhorod/Steymhorod.md"
+                "file": "README.md"
               }
             }
           },
@@ -222,6 +222,7 @@
   },
   "active": "0806e7cbec165496",
   "lastOpenFiles": [
+    "Land of Vampires/Azuria/Steymhorod/Steymhorod.md",
     "Land of Vampires/Azuria/Steymhorod/Steymhorod Cities.md",
     "Land of Vampires/attachments/Raghar Stonefist.jpg",
     "Land of Vampires/attachments/planes_of_azuria_annotated.md",
@@ -234,7 +235,6 @@
     "Land of Vampires/Azuria/The Planes.md",
     "Land of Vampires/Azuria/Azuria.md",
     "README.md",
-    "Land of Vampires/Azuria/Steymhorod/Steymhorod.md",
     "Land of Vampires/Azuria/Steymhorod/Steymhorod History.md",
     "Land of Vampires/Azuria/Steymhorod/Steymhorod People.md",
     "Land of Vampires/Azuria/Steymhorod/Steymhorod Geography.md",
