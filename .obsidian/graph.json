@@ -4,14 +4,21 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#excalidraw  ",
+      "query": "file:Steymhorod",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 7864320
+      }
+    },
+    {
+      "query": "file:Azuria",
+      "color": {
+        "a": 1,
+        "rgb": 30720
       }
     }
   ],
@@ -20,11 +27,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.49696764586436,
   "lineSizeMultiplier": 2.00481778800596,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.501692161906051,
   "repelStrength": 7.52132124001624,
   "linkStrength": 0.501692161906051,
-  "linkDistance": 30,
+  "linkDistance": 250,
   "scale": 1,
-  "close": true
+  "close": false
 }

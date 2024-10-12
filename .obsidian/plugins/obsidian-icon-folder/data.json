@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiMap",
-      "LiCloudSun",
-      "LiHome",
-      "LiWaypoints",
-      "LiDoorClosed"
+      "LiPersonStanding",
+      "LiMountainSnow",
+      "LiBuilding2",
+      "LiBookOpen",
+      "LiMap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,9 @@
   "Land of Vampires/Azuria/Steymhorod": "LiLocateFixed",
   "Land of Vampires/Azuria/Azuria.md": "LiMap",
   "Land of Vampires/Azuria/Deities.md": "LiCloudSun",
-  "Land of Vampires/Azuria": "LiMap"
+  "Land of Vampires/Azuria": "LiMap",
+  "Land of Vampires/Azuria/History.md": "LiBookOpen",
+  "Land of Vampires/Azuria/Steymhorod/Steymhorod Cities.md": "LiBuilding2",
+  "Land of Vampires/Azuria/Steymhorod/Steymhorod Geography.md": "LiMountainSnow",
+  "Land of Vampires/Azuria/Steymhorod/Steymhorod People.md": "LiPersonStanding"
 }
