@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Land of Vampires/Azuria/Azuria People.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50260543823242
+    "width": 511.5
   },
   "right": {
     "id": "680936a76406a8ce",
@@ -78,7 +78,6 @@
       {
         "id": "83eb5b0d3c24bf0a",
         "type": "tabs",
-        "dimension": 61.383537653239934,
         "children": [
           {
             "id": "2a2c6d1206eb071d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Land of Vampires/Azuria/Azuria People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Land of Vampires/Azuria/Azuria People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Land of Vampires/Azuria/Azuria People.md"
               }
             }
           },
@@ -165,44 +164,21 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "660b1b52c10083b6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "4041cef9a14969fd",
-        "type": "tabs",
-        "dimension": 17.513134851138357,
-        "children": [
-          {
-            "id": "7ad2e534bd2a4a81",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "7c5186e3d00a791f",
-        "type": "tabs",
-        "dimension": 21.10332749562172,
-        "children": [
-          {
-            "id": "11e152dcfb452a33",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
-    "collapsed": true
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,35 +193,40 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "homepage:Open homepage": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-git:Open Git source control": false,
+      "header-enhancer:Header Enhancer": false
     }
   },
-  "active": "0806e7cbec165496",
+  "active": "5211e24cdc2c683e",
   "lastOpenFiles": [
-    "Land of Vampires/Azuria/Steymhorod/Steymhorod.md",
-    "Land of Vampires/Azuria/Steymhorod/Steymhorod Cities.md",
-    "Land of Vampires/attachments/Raghar Stonefist.jpg",
-    "Land of Vampires/attachments/planes_of_azuria_annotated.md",
-    "Land of Vampires/attachments/planes_of_azuria.png",
-    "Land of Vampires/attachments/map_of_azuria.png",
-    "Land of Vampires/attachments/map_highlighting_linolynn.md",
-    "Land of Vampires/attachments/linolynn_area.png",
-    "Land of Vampires/attachments/history_of_azuria.png",
+    "Land of Vampires/Azuria/Linolynn.md",
+    "Land of Vampires/Azuria/Azuria People.md",
+    "Land of Vampires/Azuria/Azuria.md",
+    "Land of Vampires/Azuria/Caldara",
+    "Land of Vampires/Steymhorod/Steymhorod.md",
+    "Land of Vampires/attachments/pdf_Adventurers_Guide_to_Azuria_LoV.pdf",
+    "Land of Vampires/Steymhorod/Steymhorod History.md",
+    "Land of Vampires/attachments/excdrw_map_highlighting_linolynn.md",
+    "Land of Vampires/attachments/excdrw_planes_of_azuria_annotated.md",
+    "Land of Vampires/attachments/jpg_pc_Raghar_Stonefist.jpg",
+    "Land of Vampires/attachments/png_history_of_azuria.png",
+    "Land of Vampires/attachments/png_linolynn_area.png",
+    "Land of Vampires/attachments/png_map_of_azuria.png",
+    "Land of Vampires/attachments/png_planes_of_azuria.png",
+    "Land of Vampires/Azuria/Azuria Deities.md",
+    "README.md",
+    "Land of Vampires/Steymhorod/Steymhorod Cities.md",
     "Land of Vampires/attachments/history_of_azuria_infographic.pdf",
     "Land of Vampires/Azuria/The Planes.md",
-    "Land of Vampires/Azuria/Azuria.md",
-    "README.md",
-    "Land of Vampires/Azuria/Steymhorod/Steymhorod History.md",
-    "Land of Vampires/Azuria/Steymhorod/Steymhorod People.md",
-    "Land of Vampires/Azuria/Steymhorod/Steymhorod Geography.md",
-    "Land of Vampires/Azuria/History.md",
-    "Land of Vampires/Azuria/Linolynn.md",
+    "Land of Vampires/Steymhorod/Steymhorod People.md",
+    "Land of Vampires/Steymhorod/Steymhorod Geography.md",
+    "Land of Vampires/Azuria/Azuria History.md",
     "Land of Vampires/Azuria/attachments",
     "Land of Vampires/attachments/history_of_azuria_infographic_annotated.md",
-    "Land of Vampires/Azuria/Deities.md",
     "Land of Vampires/attachments/Raghar Stonefist.jpg.opdownload",
     "Never-Notetaker",
-    "Land of Vampires/Azuria/Steymhorod",
+    "Land of Vampires/Steymhorod",
     "Land of Vampires/Azuria",
     "Land of Vampires/attachments/planes_of_azuria_annotated.png",
     "Land of Vampires/attachments/attachments",
@@ -256,8 +237,6 @@
     "Land of Vampires/The Earth Ward.md",
     "Land of Vampires/The Castle Ward.md",
     "Excalidraw/Drawing 2024-10-09 13.56.52.excalidraw.md",
-    "Excalidraw",
-    "Land of Vampires/attachments",
     "Welcome.md"
   ]
 }

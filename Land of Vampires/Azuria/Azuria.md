@@ -4,11 +4,10 @@ tags:
   - history
 ---
 # Links
-[[History]]
-[[Deities]]
-[[Linolynn]]
-[[Steymhorod]]
-[[The Planes]]
+1. [[Azuria History|History]]
+2. [[Azuria Deities|Deities]]
+3. [[Linolynn]]
+4. [[The Planes]]
 # Color Key
 - <font color="#ff0000">Worlds</font>
 - <font color="#ffc000">Continents</font>

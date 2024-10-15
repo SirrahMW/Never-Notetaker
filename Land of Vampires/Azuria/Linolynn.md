@@ -6,7 +6,7 @@ The city-state of **<font color="#ffff00">Linolynn</font>** is located on the we
 > Disparity in income and class is a growing concern for <font color="#ffff00">Linolynn’s</font> young king, <font color="#00b0f0">Arontis</font>, who has made some forays into addressing inequality in the city, but it remains to be seen whether his efforts will take effect before the city’s people attempt more dramatic interventions.
 
 >[!info] Linolynn on the Map
-![[map_highlighting_linolynn]]
+![[excdrw_map_highlighting_linolynn]]
 ## The Earth Ward
 The largest of the city’s wards, the Earth Ward possesses several groups of residential districts interspersed with markets, inns, taverns, and shops. Many of this ward’s residents work on farms outside the city walls while others assist the craftspersons and wealthier merchants and families of the Air or Castle Wards. Residents of Linolynn who wish to visit temples to <font color="#00b0f0">Veloni</font>, the god of agriculture, or <font color="#00b0f0">Vida</font>, goddess of rain, can find their temples here, surrounding by well-kept parks with smaller shrines to the deities of the seasons: <font color="#00b0f0">Zivena</font>, goddess of life and spring; <font color="#00b0f0">Yena</font>, goddess of fire, heat, and summer; <font color="#00b0f0">Gwenyth</font>, goddess of autumn and the harvest; and <font color="#00b0f0">Marena</font>, goddess of winter and death.
 ## The Water Ward
@@ -17,5 +17,5 @@ The Air Ward sits at a higher elevation on the cliffside above the Earth and Wat
 The Castle Ward centers around the sweeping arches and stone walls of <font color="#00b050">Io Keep</font>, a pale gray castle characterized by brilliant glass windows and its position at the top of the cliff-face beside the <font color="#7030a0">Infinite Ocean</font>. <font color="#00b050">Io Keep</font> has extensive grounds, gardens, and a carefully maintained Arboretum home to each known species of tree and plant in the city-state and its surroundings. The oldest noble families possess wings of their own inside the castle, and the minor nobility live in elegant guest wings during their visits to court. In addition to its highest-ranking residents, including the royal family, <font color="#00b050">Io Keep</font> also houses the Royal Guard, and barracks for lower-tier soldiers in the city’s army line the walls that separate the Castle and Air Wards. Members of the cavalry dwell in Scholars and sages have rooms near the Librarium, where they meet and study when not advising the king or his courtiers. Palace servants not assigned to a particular family live in the lower levels near the kitchens.
 
 >[!info] Linolynn Region
->![[linolynn_area.png]]
+>![[png_linolynn_area.png]]
 >

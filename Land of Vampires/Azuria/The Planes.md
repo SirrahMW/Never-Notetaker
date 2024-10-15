@@ -6,7 +6,7 @@ tags:
 
 # The Planes of Azuria
 The planes of <font color="#ff0000">Azuria</font> can be broken down into three categories: the Immortal Planes, the Elemental Planes, and the Planes of Life.
- ![[planes_of_azuria_annotated]]
+ ![[excdrw_planes_of_azuria_annotated]]
 ## The Immortal Planes
  >There are two groups of the Immortal Planes, the Positive Planes and the Negative Planes. Each of these groupings contains countless demi-planes and the realms of the gods and goddesses.
  
@@ -43,5 +43,5 @@ They renamed their world in honor of the sparkling expanse that had pushed back 
 
 # Links
 [[Azuria]]
-[[Deities]]
-[[History]]
+[[Azuria Deities]]
+[[Azuria History]]
