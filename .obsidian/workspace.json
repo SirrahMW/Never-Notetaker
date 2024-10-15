@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3934445ccc22387",
+        "id": "c17a0bf3cffe3aa1",
         "type": "tabs",
         "children": [
           {
-            "id": "9ea36dece26c2ba9",
+            "id": "82ae83b3160821f1",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               }
             }
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 412.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +192,7 @@
       "header-enhancer:Header Enhancer": false
     }
   },
-  "active": "9ea36dece26c2ba9",
+  "active": "82ae83b3160821f1",
   "lastOpenFiles": [
     "Land of Vampires/Azuria/Azuria People.md",
     "Land of Vampires/Azuria/Linolynn.md",
