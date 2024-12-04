@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebookPen",
       "LiPersonStanding",
       "LiMountainSnow",
       "LiBuilding2",
-      "LiBookOpen",
-      "LiMap"
+      "LiBookOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,17 +36,20 @@
   "Land of Vampires": "LiMap",
   "Land of Vampires/attachments": "LiFiles",
   "Land of Vampires/Adventure": "LiWaypoints",
-  "Land of Vampires/Azuria/Linolynn.md": "LiLocateFixed",
-  "Land of Vampires/Azuria/Azuria.md": "LiMap",
-  "Land of Vampires/Azuria": "LiMap",
-  "Land of Vampires/Azuria/Azuria History.md": "LiBookOpen",
-  "Land of Vampires/Azuria/Azuria Deities.md": "LiCloudSun",
-  "Land of Vampires/Azuria/The Planes.md": "LiDoorClosed",
   "Land of Vampires/Steymhorod": "LiMap",
   "Land of Vampires/Steymhorod/Steymhorod.md": "LiMap",
   "Land of Vampires/Steymhorod/Steymhorod People.md": "LiPersonStanding",
   "Land of Vampires/Steymhorod/Steymhorod Cities.md": "LiBuilding2",
   "Land of Vampires/Steymhorod/Steymhorod Geography.md": "LiMountainSnow",
   "Land of Vampires/Steymhorod/Steymhorod History.md": "LiBookOpen",
-  "Land of Vampires/Azuria/Azuria People.md": "LiPersonStanding"
+  "Land of Vampires/Caldara/Azuria": "LiMap",
+  "Land of Vampires/Caldara/Azuria/Azuria.md": "LiMap",
+  "Land of Vampires/Caldara/Azuria/Azuria Deities.md": "LiCloudSun",
+  "Land of Vampires/Caldara/Azuria/Azuria History.md": "LiBookOpen",
+  "Land of Vampires/Caldara/Azuria/Azuria People.md": "LiPersonStanding",
+  "Land of Vampires/Caldara/Azuria/Linolynn.md": "LiLocateFixed",
+  "Land of Vampires/Caldara/Azuria/The Planes.md": "LiDoorClosed",
+  "Land of Vampires/Caldara": "LiMap",
+  "Land of Vampires/Adventure/Session Notes": "LiNotebookPen",
+  "Land of Vampires/Adventure/Raghar Stonefist": "LiPersonStanding"
 }

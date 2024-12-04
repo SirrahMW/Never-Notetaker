@@ -21,7 +21,7 @@ __(Your installation location may be different from the screenshot above, that i
 
 <img src="https://github.com/user-attachments/assets/88e87048-fe47-4d0e-b8a9-7c4d5b3a1452" width="600">
 
-5. You will get a popup asking to trust the author of the vault when you first open the vault. I presume you trust me to not include anything malicious since this is designed to be used by friends. I highly recommend selecting `Trust author and enable plugins`, but the vault is theoretically mostly usable without these plugins or with entirely different plugins included.
+5. You will get a popup asking to trust the author of the vault when you first open the vault. I presume you trust me to not include anything malicious since this is designed to be used by friends. I highly recommend selecting `Trust author and enable plugins`, but the vault is theoretically mostly usable without these plugins or with entirely different plugins.
 
 <img src="https://github.com/user-attachments/assets/1f45b4fd-8155-41e6-abdf-439ef9de6fbb" width="600">
 
@@ -29,4 +29,3 @@ __(Your installation location may be different from the screenshot above, that i
 
 <img src="https://github.com/user-attachments/assets/7cba7185-63eb-47bb-9e37-56dab84d5d03" width="600">
 
-7. Enjoy!

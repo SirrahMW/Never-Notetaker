@@ -20,12 +20,29 @@ In the conflict with <font color="#00b0f0">Alessandra</font>, at the end of the 
 Those of us who are not titans must think of the Elemental Planes in two ways: They are the home to elemental beings and the true form of each of the six titans. <font color="#00b0f0">Atamos</font>, the Titan of Air, for instance, has an embodied form through which he appears to mortals, but <font color="#00b0f0">Atamos</font> is equally the Plane of Air itself. The titans withdrawing from the planes of life, from <font color="#ff0000">Eldura</font> (aka <font color="#ff0000">Azuria</font>), and the titans sealing off their planes were one and the same action.
 
 But as they had each added their essence to that of their sister <font color="#00b0f0">Verdigris</font>, elemental magic and power remained upon the planes of life, only in a lesser, weaker form.
+
 ### The Plane of Nature and the Plane of Space
 The History of Azuria details the sacrifice of <font color="#00b0f0">Verdigris</font>, and the full story can be found in _Story Magic_. In short, with the help of her lover <font color="#00b0f0">Izadra</font> (the Titan of Space) <font color="#00b0f0">Verdigris</font> (the Titan of Nature) sacrificed herself to avert war between the Positive and Negative Planes. In this way, <font color="#00b0f0">Verdigris</font> averted the destruction of all life across the planar-verse.
 
 As <font color="#00b0f0">Izadra</font> pulled her lover tight against herself, <font color="#00b0f0">Verdigris</font> divided into three, creating the three planes of life. With <font color="#00b0f0">Verdigris’s</font> sacrifice, the Plane of Nature was no more.
 
 The effort splintered <font color="#00b0f0">Izadra’s </font>power, and spread her might to the far winds. The Plane of Space burst outward to fill all gaps between the planes—in this way, she surrounds and embraces <font color="#00b0f0">Verdigris</font> still. Mortals remain aware of the twinkling breadth of <font color="#00b0f0">Izadra’s</font> domain. Their scholars refer to it as the Plane of Stars but, even more often, mortals speak of <font color="#00b0f0">Izadra’s</font> remnants in an embodied form of a crone goddess, [Astralei](https://worldofazuria.com/deities/).
+
+### The Titans by Name
+
+| Name     | Element                               |
+| -------- | ------------------------------------- |
+| Ignis    | <font color="#f79646">Fire</font>     |
+| Thalyssa | <font color="#8db3e2">Water</font>    |
+| Atamos   | <font color="#c3d69b">Air</font>      |
+| Gaia     | <font color="#974806">Earth</font>    |
+| Ilona    | <font color="#ddd9c3">Light</font>    |
+| Nyx      | <font color="#7f7f7f">Darkness</font> |
+
+| Name      | Element (Plane)         |
+| --------- | ----------------------- |
+| Verdigris | Nature (Planes of Life) |
+| Izadra    | Space (Plane of Space)  |
 
 ## The Planes of Life
 There are three planes of life: The Fae Brightlands, the prime plane, and the Shadowlands. Fae continue to be the primary residents of both the Bright- and Shadowlands. And the shorter-lived races—humans, dwarves, elves, goblins, orcs, gnomes—walk the prime plane.
